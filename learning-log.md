@@ -8,3 +8,6 @@ I'm learning Git and version control to track my work.
 - Learn branching and merging
 - Push my work to GitHub
 - Become a Cloud Engineer Bibi!
+
+## What I Learned Today
+- Git tracks changes to files over time
