@@ -42,3 +42,8 @@ This file documents the Git undo and recovery tools I've learned.
 
 - Use branches to work in parallel without stepping on each other's changes
 - Pull requests let teammates review your work before merging
+
+## Advanced Tips
+
+- Use git stash to temporarily shelve changes
+- Combine interactive rebase with cherry-pick for complex workflows
