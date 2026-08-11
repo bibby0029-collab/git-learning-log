@@ -1,0 +1,22 @@
+[33m142e057[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbisect-practice[m[33m)[m Add auth config
+[33me4d02a5[m Add cache config
+[33m3eb421c[m Add logging config
+[33m6ecdd1a[m Add database config
+[33m89b1446[m Add server host config
+[33m30475eb[m Add app config with server port
+[33mcdddb27[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Add advanced tips
+[33me2a3f40[m Fix typo in reset description
+[33maa0385e[m Add collaboration section
+[33m20a936f[m Add bisect section with tips
+[33mc344141[m Reapply "Add incorrect workflow note"
+[33m6ef7faa[m Revert "Add incorrect workflow note"
+[33m98eb8e1[m Add incorrect workflow note
+[33mb60a6c4[m add cherry-pick section
+[33m08b120e[m Add reflog section
+[33m6b3bead[m Add revert section
+[33m399cd5c[m Add reset section
+[33mfde227b[m Add undo-practice.md
+[33m2994167[m[33m ([m[1;31morigin/add-resources[m[33m, [m[1;32madd-resources[m[33m)[m Merge add-resources branch and resolve conflict
+[33mf235223[m Expand learning notes on branches
+[33mac0f4be[m[33m ([m[1;32mmaster[m[33m)[m Add What I learned section
+[33mef48262[m Add initial learning log
